@@ -1,11 +1,8 @@
 # Portfolio
 ---
-languages:
-  - JavaScript
-libraries:
-  - React
-frameworks:
-  - TailwindCSS
+languages: JavaScript
+libraries: React
+frameworks: TailwindCSS
 products:
   - Portfolio
   - Book Store
